@@ -1,14 +1,14 @@
 {
   "name": "osdselection",
   "version": "1.1.0",
-  "description": "",
+  "description": "OpenseaDragonSelection Wrapper",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "openseadragon": "^2.4.0"
   }
